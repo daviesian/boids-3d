@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Boids</title>
+    <script src="https://aframe.io/releases/0.8.2/aframe.min.js"></script>
+    <script src="https://unpkg.com/aframe-environment-component/dist/aframe-environment-component.min.js"></script>
+</head>
+<body>
+
+    <script src="cljs-out/dev-main.js"></script>
+
+    <a-scene boid-spawner>
+
+        <!--<a-box foo color="red" position="0 2 -5" rotation="0 45 45" scale=".2 .2 .2"></a-box>-->
+
+        <a-entity environment="preset: forest; dressingAmount: 500"></a-entity>
+        <a-entity id="main-camera" camera="fov: 60" position="-3 3 1" rotation="-30 -45 0" look-controls="reverseMouseDrag: false;" wasd-controls="fly: true;" >
+            <a-sphere boid-scarer material="color: blue; opacity: 0.3" position="0 0 -6" rotation="0 0 0" scale=".1 .1 .1"
+                      line__y="start: 0 0 0; end: 0 -100 0"
+            ></a-sphere>
+        </a-entity>
+    </a-scene>
+
+</body>
+</html>
