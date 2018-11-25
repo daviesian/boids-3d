@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69f66573-dd47-4b60-b9b8-6dc6573aef61" name="Default Changelist" comment="" />
+    <list default="true" id="69f66573-dd47-4b60-b9b8-6dc6573aef61" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.cpcache/394020290.cp" beforeDir="false" afterPath="$PROJECT_DIR$/.cpcache/394020290.cp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cpcache/394020290.libs" beforeDir="false" afterPath="$PROJECT_DIR$/.cpcache/394020290.libs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev-main.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev-main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/boids/core.cljs.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/boids/core.cljs.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/boids/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/boids/core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/boids/core.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/boids/core.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/cljs/pprint.cljs.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/cljs/pprint.cljs.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/cljs/pprint.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/cljs/pprint.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/cljs/pprint.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/cljs/pprint.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/cljs/spec/alpha.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/cljs/spec/alpha.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/cljs/spec/alpha.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/cljs/spec/alpha.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/cljs/spec/gen/alpha.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/cljs/spec/gen/alpha.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/cljs/spec/gen/alpha.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/cljs/spec/gen/alpha.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/cljs/stacktrace.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/cljs/stacktrace.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/cljs_deps.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/cljs_deps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/cljsc_opts.edn" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/cljsc_opts.edn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/clojure/string.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/clojure/string.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/clojure/string.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/clojure/string.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/clojure/walk.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/clojure/walk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/clojure/walk.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/clojure/walk.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/core.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/core.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/formatters.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/formatters.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/formatters/budgeting.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/formatters/budgeting.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/formatters/budgeting.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/formatters/budgeting.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/formatters/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/formatters/core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/formatters/core.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/formatters/core.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/formatters/helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/formatters/helpers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/formatters/helpers.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/formatters/helpers.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/formatters/markup.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/formatters/markup.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/formatters/printing.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/formatters/printing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/formatters/printing.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/formatters/printing.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/formatters/templating.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/formatters/templating.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/hints.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/hints.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/munging.cljs.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/munging.cljs.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/munging.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/munging.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/munging.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/munging.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/reporter.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/reporter.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/toolbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/toolbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/toolbox.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/toolbox.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/util.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/devtools/util.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/config.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/config.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/core.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/core.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/helpers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/helpers.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/helpers.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/messages.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/messages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/messages.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/messages.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/schema.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/schema.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/schema.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/schema.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/sdefs.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/sdefs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/sdefs.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/sdefs.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/oops/state.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/public/cljs-out/dev/process/env.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/public/cljs-out/dev/process/env.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +116,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev.cljs.edn">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -94,6 +155,11 @@
               <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -187,7 +253,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="ReplState" timestamp="1543188176899">{:repl-history {:ide [], :local [{:command &quot;(+ 3 4)&quot;, :offset 7, :ns &quot;cljs.user&quot;}], :remote []}}</component>
+  <component name="ReplState" timestamp="1543189856252">{:repl-history {:ide [], :local [{:command &quot;(+ 3 4)&quot;, :offset 7, :ns &quot;cljs.user&quot;}], :remote []}}</component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -345,9 +411,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev.cljs.edn">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar://$USER_HOME$/.m2/repository/com/bhauman/figwheel-main/0.1.9/figwheel-main-0.1.9.jar!/public/com/bhauman/figwheel/helper/content/welcome_main_exec.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -384,13 +447,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deps.edn">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.m2/repository/org/clojure/clojurescript/1.10.339/clojurescript-1.10.339.jar!/cljs/core.cljs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317">
@@ -418,6 +474,19 @@
           <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev.cljs.edn">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deps.edn">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
